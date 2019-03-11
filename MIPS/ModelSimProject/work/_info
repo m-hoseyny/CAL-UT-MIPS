@@ -3,423 +3,483 @@ K3
 13
 cModel Technology
 Z0 dC:\altera\13.0sp1
-vALU
-Z1 !s100 9Xa5WCYRKnPh`NzX_@R0T1
-Z2 IfW@NZGa4LD=:QA1o6omM;3
-Z3 V_2jd]E>GUhzWI]GmB<8^33
+vAddress_Mapping
+Z1 !s100 9@aDGZN?9AS1TaA^0bK:l3
+Z2 IU_MPAAnZee9L=OncfBfaX3
+Z3 VNB=iaaMBaUTRf6^GFXGMX2
 Z4 dC:\Users\Mohammad Hosseini\Documents\UT\Computer Architecture Lab\MIPS\ModelSimProject
-Z5 w1551696019
-Z6 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ALU.v
-Z7 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ALU.v
+Z5 w1552309324
+Z6 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Address_Mapping.v
+Z7 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Address_Mapping.v
 L0 1
 Z8 OV;L;10.1d;51
 r1
 31
-Z9 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ALU.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Address_Mapping.v|
 Z10 o-work work -O0
-Z11 n@a@l@u
-Z12 !s108 1551696100.420000
-Z13 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ALU.v|
+Z11 n@address_@mapping
+Z12 !s108 1552310730.680000
+Z13 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Address_Mapping.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU
+Z14 !s100 96X;ZF?M8_6L12XEf`cS<0
+Z15 IgLK^<DMJ31T53QWM;JTTY2
+Z16 V_2jd]E>GUhzWI]GmB<8^33
+R4
+Z17 w1551699105
+Z18 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ALU.v
+Z19 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ALU.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ALU.v|
+R10
+Z21 n@a@l@u
+Z22 !s108 1552310730.743000
+Z23 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ALU.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vCondition_Check
-Z14 !s100 S`Ke0dF0JeLBf]?jY`hcR3
-Z15 IRHb@g5iEJCk@AT_ReBSP32
-Z16 VZXa0eN>idX<:n?z@m;9^e3
+Z24 !s100 S`Ke0dF0JeLBf]?jY`hcR3
+Z25 IRHb@g5iEJCk@AT_ReBSP32
+Z26 VZXa0eN>idX<:n?z@m;9^e3
 R4
-Z17 w1551696057
-Z18 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Condition_Check.v
-Z19 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Condition_Check.v
+Z27 w1551696057
+Z28 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Condition_Check.v
+Z29 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Condition_Check.v
 L0 1
 R8
 r1
 31
-Z20 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Condition_Check.v|
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Condition_Check.v|
 R10
-Z21 n@condition_@check
-Z22 !s108 1551696100.595000
-Z23 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Condition_Check.v|
+Z31 n@condition_@check
+Z32 !s108 1552310730.821000
+Z33 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Condition_Check.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vCU
-Z24 !s100 2Y8Lo5KfZzmg?@M;_Cfo93
-Z25 Ib[?2H`Mzf?bmQEe1Y=AL63
-Z26 VnanZHIQmW^X7QO4I3LOz51
+Z34 !s100 HdVmb6iDi_MPHjG_RYcXI3
+Z35 IZXT5W?_KPO3JYoYY<_:gl1
+Z36 VnanZHIQmW^X7QO4I3LOz51
 R4
-Z27 w1551093477
-Z28 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/CU.v
-Z29 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/CU.v
+Z37 w1551698352
+Z38 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/CU.v
+Z39 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/CU.v
 L0 1
 R8
 r1
 31
-Z30 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/CU.v|
+Z40 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/CU.v|
 R10
 n@c@u
-Z31 !s108 1551696100.808000
-Z32 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/CU.v|
+Z41 !s108 1552310730.884000
+Z42 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/CU.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vEXE_Stage
-Z33 !s100 JhYm:HAF]EbLZ@56G2GdD1
-Z34 IeaGm?2B<ii?gRS;990cfI2
-Z35 VSXg[>BVPKT:X]lYhT0A8[2
+Z43 !s100 JhYm:HAF]EbLZ@56G2GdD1
+Z44 IeaGm?2B<ii?gRS;990cfI2
+Z45 VSXg[>BVPKT:X]lYhT0A8[2
 R4
-Z36 w1551692318
-Z37 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/EXE_Stage.v
-Z38 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/EXE_Stage.v
+Z46 w1551698971
+Z47 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/EXE_Stage.v
+Z48 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/EXE_Stage.v
 L0 1
 R8
 r1
 31
-Z39 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/EXE_Stage.v|
+Z49 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/EXE_Stage.v|
 R10
-Z40 n@e@x@e_@stage
-Z41 !s108 1551696101.016000
-Z42 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/EXE_Stage.v|
+Z50 n@e@x@e_@stage
+Z51 !s108 1552310730.946000
+Z52 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/EXE_Stage.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vEXE_Stage_reg
-Z43 !s100 M_Ln3]=oFc_T_mz>nU[@B0
-Z44 IKb31HziQJ;14SNN[H65P`1
-Z45 V6HOlGHC^0R2<Z0M]B[RPW1
+Z53 !s100 M_Ln3]=oFc_T_mz>nU[@B0
+Z54 IKb31HziQJ;14SNN[H65P`1
+Z55 V6HOlGHC^0R2<Z0M]B[RPW1
 R4
-Z46 w1551694606
-Z47 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/EXE_Stage_reg.v
-Z48 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/EXE_Stage_reg.v
+Z56 w1551694606
+Z57 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/EXE_Stage_reg.v
+Z58 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/EXE_Stage_reg.v
 L0 1
 R8
 r1
 31
-Z49 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/EXE_Stage_reg.v|
+Z59 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/EXE_Stage_reg.v|
 R10
-Z50 n@e@x@e_@stage_reg
-Z51 !s108 1551696101.126000
-Z52 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/EXE_Stage_reg.v|
+Z60 n@e@x@e_@stage_reg
+Z61 !s108 1552310731.008000
+Z62 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/EXE_Stage_reg.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vID_Stage
-Z53 !s100 I=LNYVnb_C]4jb735B<?a0
-Z54 Im_Q6ZkM7GGQ`Fajbk5=3g3
-Z55 VoGR5Tz>jN;8FXO6cKQ7Ok3
+Z63 !s100 KQeYWh;NE[Pm:S>9[h7d63
+Z64 IHFY@ZFJ[Oj]3:Z[V]@cCJ2
+Z65 VijaU3N`FQf1]668iP^UUQ0
 R4
-Z56 w1551693914
-Z57 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ID_Stage.v
-Z58 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ID_Stage.v
+Z66 w1551698580
+Z67 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ID_Stage.v
+Z68 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ID_Stage.v
 L0 1
 R8
 r1
 31
-Z59 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ID_Stage.v|
+Z69 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ID_Stage.v|
 R10
-Z60 n@i@d_@stage
-Z61 !s108 1551696101.286000
-Z62 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ID_Stage.v|
+Z70 n@i@d_@stage
+Z71 !s108 1552310731.087000
+Z72 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ID_Stage.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vID_Stage_reg
-Z63 !s100 <Bzf3NAnXKON4LGh^NC__1
-Z64 IaB4QAag=k1P06<]KE;goa2
-Z65 VSAUL8jNL<Ed9aLWV9cIWd2
+Z73 !s100 <Bzf3NAnXKON4LGh^NC__1
+Z74 IaB4QAag=k1P06<]KE;goa2
+Z75 VSAUL8jNL<Ed9aLWV9cIWd2
 R4
-Z66 w1551693837
-Z67 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ID_Stage_reg.v
-Z68 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ID_Stage_reg.v
+Z76 w1551693837
+Z77 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ID_Stage_reg.v
+Z78 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ID_Stage_reg.v
 L0 1
 R8
 r1
 31
-Z69 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ID_Stage_reg.v|
+Z79 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ID_Stage_reg.v|
 R10
-Z70 n@i@d_@stage_reg
-Z71 !s108 1551696101.409000
-Z72 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ID_Stage_reg.v|
+Z80 n@i@d_@stage_reg
+Z81 !s108 1552310731.149000
+Z82 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ID_Stage_reg.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vIF_Stage
-Z73 !s100 :KYR;N;cdA^hU[L3DbZ?I1
-Z74 IbDmgSQ115Q<0f_9]:BHAI1
-Z75 VRbbFE=_k0ohJf5ff974@j3
+Z83 !s100 :KYR;N;cdA^hU[L3DbZ?I1
+Z84 IbDmgSQ115Q<0f_9]:BHAI1
+Z85 VRbbFE=_k0ohJf5ff974@j3
 R4
-Z76 w1551693708
-Z77 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/IF_Stage.v
-Z78 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/IF_Stage.v
+Z86 w1551693708
+Z87 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/IF_Stage.v
+Z88 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/IF_Stage.v
 L0 1
 R8
 r1
 31
-Z79 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/IF_Stage.v|
+Z89 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/IF_Stage.v|
 R10
-Z80 n@i@f_@stage
-Z81 !s108 1551696101.580000
-Z82 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/IF_Stage.v|
+Z90 n@i@f_@stage
+Z91 !s108 1552310731.212000
+Z92 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/IF_Stage.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vIF_Stage_reg
-Z83 !s100 C]gE>:[bIBQE`kk93NBaV2
-Z84 I5Omk30VeTb]em>]baEPaf2
-Z85 V[JY]cTo^fjUXhPKBAaY7i0
+Z93 !s100 C]gE>:[bIBQE`kk93NBaV2
+Z94 I5Omk30VeTb]em>]baEPaf2
+Z95 V[JY]cTo^fjUXhPKBAaY7i0
 R4
-Z86 w1550497104
-Z87 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/IF_Stage_reg.v
-Z88 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/IF_Stage_reg.v
+Z96 w1550497104
+Z97 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/IF_Stage_reg.v
+Z98 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/IF_Stage_reg.v
 L0 1
 R8
 r1
 31
-Z89 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/IF_Stage_reg.v|
+Z99 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/IF_Stage_reg.v|
 R10
-Z90 n@i@f_@stage_reg
-Z91 !s108 1551696101.693000
-Z92 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/IF_Stage_reg.v|
+Z100 n@i@f_@stage_reg
+Z101 !s108 1552310731.290000
+Z102 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/IF_Stage_reg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMEM
+Z103 !s100 UcM9L8=CJ?E4>HOEM_61C1
+Z104 INkP@?mlZnn3OcB60dj2Pf3
+Z105 VFbcB^`Ockc^:Ka=oWYV2K3
+R4
+Z106 w1552310610
+Z107 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MEM.v
+Z108 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MEM.v
+L0 1
+R8
+r1
+31
+Z109 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MEM.v|
+R10
+Z110 n@m@e@m
+Z111 !s108 1552310731.352000
+Z112 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MEM.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vMEM_Stage
-Z93 !s100 5i2I:T=BR1ShH3Af:Q3CS0
-Z94 I@c]fm:gKBIIhE;aU4Z[=_3
-Z95 V[[6@AI7C9^cL@2Q3WgSj]3
+Z113 ICE??Qif>@5j2HBW0Vn@W;2
+Z114 VY?R==TFTH5ZC0zTS4JJQ[2
 R4
-Z96 w1551692886
-Z97 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MEM_Stage.v
-Z98 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MEM_Stage.v
+Z115 w1552310727
+Z116 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MEM_Stage.v
+Z117 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MEM_Stage.v
 L0 1
 R8
 r1
 31
-Z99 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MEM_Stage.v|
 R10
-Z100 n@m@e@m_@stage
-Z101 !s108 1551696101.797000
-Z102 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MEM_Stage.v|
+Z118 n@m@e@m_@stage
+Z119 !s100 fo=k7R`?L8aWOjMP=W1CB0
+Z120 !s108 1552310731.430000
+Z121 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MEM_Stage.v|
+Z122 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MEM_Stage.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vMEM_Stage_reg
-Z103 !s100 m?BME:IlLndNZbVKiL:[73
-Z104 I9Mm5HV4Ronk?ZNnIYaGfH2
-Z105 V9jXec;5]]@HLCk]k^GMYN1
+Z123 !s100 m?BME:IlLndNZbVKiL:[73
+Z124 I9Mm5HV4Ronk?ZNnIYaGfH2
+Z125 V9jXec;5]]@HLCk]k^GMYN1
 R4
-Z106 w1551693099
-Z107 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MEM_Stage_reg.v
-Z108 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MEM_Stage_reg.v
+Z126 w1552309327
+Z127 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MEM_Stage_reg.v
+Z128 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MEM_Stage_reg.v
 L0 1
 R8
 r1
 31
-Z109 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MEM_Stage_reg.v|
+Z129 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MEM_Stage_reg.v|
 R10
-Z110 n@m@e@m_@stage_reg
-Z111 !s108 1551696101.984000
-Z112 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MEM_Stage_reg.v|
+Z130 n@m@e@m_@stage_reg
+Z131 !s108 1552310731.524000
+Z132 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MEM_Stage_reg.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vMIPS
-Z113 !s100 b8MiIQF57AS`glmQ9H2V00
-Z114 ITd2P=f7LQ`O^c[]n9K_Fz3
-Z115 V<ao9YZf[Pz=bFYO;d[ImL1
+Z133 !s100 Q^gYCU]O]DcEQYG5zf7SS0
+Z134 I3_zbEOhlXU=[bb8;6KlVY3
+Z135 V<ao9YZf[Pz=bFYO;d[ImL1
 R4
-Z116 w1551696088
-Z117 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MIPS.V
-Z118 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MIPS.V
+Z136 w1552310416
+Z137 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MIPS.V
+Z138 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MIPS.V
 L0 48
 R8
 r1
 31
-Z119 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MIPS.V|
+Z139 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MIPS.V|
 R10
-Z120 n@m@i@p@s
-Z121 !s108 1551696102.081000
-Z122 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MIPS.V|
+Z140 n@m@i@p@s
+Z141 !s108 1552310731.586000
+Z142 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MIPS.V|
+!i10b 1
+!s85 0
+!s101 -O0
+vMIPS_TB
+Z143 !s100 V[C[`d0n1=?>4?aFN_7R?1
+Z144 IMCM:HzDneXz6F[R^o@Pd<2
+Z145 VU>3QGd[C3ECHR2;]l0BAK0
+R4
+Z146 w1551698935
+Z147 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MIPS_TB.v
+Z148 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MIPS_TB.v
+L0 1
+R8
+r1
+31
+Z149 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MIPS_TB.v|
+R10
+Z150 n@m@i@p@s_@t@b
+Z151 !s108 1552310731.665000
+Z152 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MIPS_TB.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vMUX_32bit_2_1
-Z123 !s100 :j:Mco@4iJIF5ziGFmCMW0
-Z124 INWJHm`Fc_I:0neOKgiOM_3
-Z125 V=?@aQBbM;nId_CM:_T`mk3
+Z153 !s100 :j:Mco@4iJIF5ziGFmCMW0
+Z154 INWJHm`Fc_I:0neOKgiOM_3
+Z155 V=?@aQBbM;nId_CM:_T`mk3
 R4
-Z126 w1551087849
-Z127 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MUX_32bit_2_1.v
-Z128 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MUX_32bit_2_1.v
+Z156 w1551087849
+Z157 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MUX_32bit_2_1.v
+Z158 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MUX_32bit_2_1.v
 L0 1
 R8
 r1
 31
-Z129 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MUX_32bit_2_1.v|
+Z159 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MUX_32bit_2_1.v|
 R10
-Z130 n@m@u@x_32bit_2_1
-Z131 !s108 1551696102.312000
-Z132 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MUX_32bit_2_1.v|
+Z160 n@m@u@x_32bit_2_1
+Z161 !s108 1552310731.805000
+Z162 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MUX_32bit_2_1.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vMUX_5bit_2_1
-Z133 !s100 3LVV:<Z4U4UL89Z`PG3n11
-Z134 IoX9zf:Y7T4AXUYHHAfe350
-Z135 VL3z1L>C`2;4<<EaW@3j_Q1
+Z163 !s100 3LVV:<Z4U4UL89Z`PG3n11
+Z164 IoX9zf:Y7T4AXUYHHAfe350
+Z165 VL3z1L>C`2;4<<EaW@3j_Q1
 R4
-Z136 w1551089594
-Z137 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MUX_5bit_2_1.v
-Z138 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MUX_5bit_2_1.v
+Z166 w1551089594
+Z167 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MUX_5bit_2_1.v
+Z168 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MUX_5bit_2_1.v
 L0 1
 R8
 r1
 31
-Z139 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MUX_5bit_2_1.v|
+Z169 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MUX_5bit_2_1.v|
 R10
-Z140 n@m@u@x_5bit_2_1
-Z141 !s108 1551696102.209000
-Z142 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MUX_5bit_2_1.v|
+Z170 n@m@u@x_5bit_2_1
+Z171 !s108 1552310731.727000
+Z172 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/MUX_5bit_2_1.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vPC
-Z143 !s100 7O@g]d?cD?_P8RR=QVo`c0
-Z144 ICmz<gUM[0mD^VEH>^L];[0
-Z145 VN^fAjBFNcVG=>c;9ZW6Tz3
+Z173 !s100 7O@g]d?cD?_P8RR=QVo`c0
+Z174 ICmz<gUM[0mD^VEH>^L];[0
+Z175 VN^fAjBFNcVG=>c;9ZW6Tz3
 R4
-Z146 w1550501961
-Z147 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/PC.v
-Z148 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/PC.v
+Z176 w1550501961
+Z177 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/PC.v
+Z178 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/PC.v
 L0 1
 R8
 r1
 31
-Z149 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/PC.v|
+Z179 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/PC.v|
 R10
 n@p@c
-Z150 !s108 1551696102.421000
-Z151 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/PC.v|
+Z180 !s108 1552310731.868000
+Z181 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/PC.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vPC_Adder
-Z152 !s100 3_M]R;Obegj;n6Y[KT@1S0
-Z153 I^9RMCflmEL;YA[4G3T@DL3
-Z154 VM8j@=7ki^zMiMRH:1i_?<2
+Z182 !s100 3_M]R;Obegj;n6Y[KT@1S0
+Z183 I^9RMCflmEL;YA[4G3T@DL3
+Z184 VM8j@=7ki^zMiMRH:1i_?<2
 R4
-Z155 w1550502142
-Z156 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/PC_Adder.v
-Z157 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/PC_Adder.v
+Z185 w1550502142
+Z186 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/PC_Adder.v
+Z187 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/PC_Adder.v
 L0 1
 R8
 r1
 31
-Z158 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/PC_Adder.v|
+Z188 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/PC_Adder.v|
 R10
-Z159 n@p@c_@adder
-Z160 !s108 1551696102.556000
-Z161 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/PC_Adder.v|
+Z189 n@p@c_@adder
+Z190 !s108 1552310731.930000
+Z191 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/PC_Adder.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vRegister_File
-Z162 !s100 hXi56Zc?IR6bSHR[S?ekT2
-Z163 IB9Ic[7h]32XFIMU=eAk=b2
-Z164 Vo<hUX3SIOE4?KCIi4BAF@1
+Z192 !s100 hXi56Zc?IR6bSHR[S?ekT2
+Z193 IB9Ic[7h]32XFIMU=eAk=b2
+Z194 Vo<hUX3SIOE4?KCIi4BAF@1
 R4
-Z165 w1551691152
-Z166 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Register_File.v
-Z167 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Register_File.v
+Z195 w1551691152
+Z196 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Register_File.v
+Z197 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Register_File.v
 L0 1
 R8
 r1
 31
-Z168 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Register_File.v|
+Z198 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Register_File.v|
 R10
-Z169 n@register_@file
-Z170 !s108 1551696102.709000
-Z171 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Register_File.v|
+Z199 n@register_@file
+Z200 !s108 1552310731.993000
+Z201 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Register_File.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vROM
-Z172 !s100 cd6WzN5mWjKSkhc6jQnA11
-Z173 If5c>AW<gf69=?^f4U`E_o3
-Z174 V0k:GMXPAb[Vfec3nR5oF?0
+Z202 !s100 =FSTn94:OJn]]JI4;cLP>1
+Z203 I;8Me3Q5EfgdgHf6@TZ`2M3
+Z204 V0k:GMXPAb[Vfec3nR5oF?0
 R4
-Z175 w1551094041
-Z176 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ROM.v
-Z177 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ROM.v
+Z205 w1552302760
+Z206 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ROM.v
+Z207 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ROM.v
 L0 1
 R8
 r1
 31
-Z178 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ROM.v|
+Z208 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ROM.v|
 R10
-Z179 n@r@o@m
-Z180 !s108 1551696102.819000
-Z181 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ROM.v|
+Z209 n@r@o@m
+Z210 !s108 1552310732.086000
+Z211 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/ROM.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vSevenSegment
-Z182 !s100 aY@A5ZndUe<4S>Y5AOg?f2
-Z183 Ilj5JiPzEkG[[ZE]B;IabR0
-Z184 V=@TAXP]:98bAz94?a6UA61
+Z212 !s100 aY@A5ZndUe<4S>Y5AOg?f2
+Z213 Ilj5JiPzEkG[[ZE]B;IabR0
+Z214 V=@TAXP]:98bAz94?a6UA61
 R4
-Z185 w1551088818
-Z186 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/SevenSegment.v
-Z187 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/SevenSegment.v
+Z215 w1551088818
+Z216 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/SevenSegment.v
+Z217 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/SevenSegment.v
 L0 1
 R8
 r1
 31
-Z188 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/SevenSegment.v|
+Z218 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/SevenSegment.v|
 R10
-Z189 n@seven@segment
-Z190 !s108 1551696103.019000
-Z191 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/SevenSegment.v|
+Z219 n@seven@segment
+Z220 !s108 1552310732.149000
+Z221 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/SevenSegment.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vSign_Extend
-Z192 !s100 Ab[6o7ZjRdLbhN^Xz3k7W1
-Z193 IlXZoe>cbH31@bInA@l0SZ3
-Z194 VjI1k4CMQVkBEI6c>5igJo3
+Z222 !s100 Ab[6o7ZjRdLbhN^Xz3k7W1
+Z223 IlXZoe>cbH31@bInA@l0SZ3
+Z224 VjI1k4CMQVkBEI6c>5igJo3
 R4
-Z195 w1551088033
-Z196 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Sign_Extend.v
-Z197 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Sign_Extend.v
+Z225 w1551088033
+Z226 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Sign_Extend.v
+Z227 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Sign_Extend.v
 L0 1
 R8
 r1
 31
-Z198 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Sign_Extend.v|
+Z228 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Sign_Extend.v|
 R10
-Z199 n@sign_@extend
+Z229 n@sign_@extend
 !i10b 1
 !s85 0
-Z200 !s108 1551696103.142000
-Z201 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Sign_Extend.v|
+Z230 !s108 1552310732.211000
+Z231 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/Sign_Extend.v|
 !s101 -O0
 vWB_Stage
 !i10b 1
-Z202 !s100 HTbQzQImPo>hKlTW3fOIb1
-Z203 IeXgjTP2SZn^zSffAlMJ[91
-Z204 VE0<EOTYdnm]:AV9af=;;@1
+Z232 !s100 HTbQzQImPo>hKlTW3fOIb1
+Z233 IeXgjTP2SZn^zSffAlMJ[91
+Z234 VE0<EOTYdnm]:AV9af=;;@1
 R4
-Z205 w1551695481
-Z206 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/WB_Stage.v
-Z207 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/WB_Stage.v
+Z235 w1551695481
+Z236 8C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/WB_Stage.v
+Z237 FC:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/WB_Stage.v
 L0 1
 R8
 r1
 !s85 0
 31
-!s108 1551696103.286000
+!s108 1552310732.289000
 !s107 C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/WB_Stage.v|
-Z208 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/WB_Stage.v|
+Z238 !s90 -reportprogress|300|-work|work|C:/Users/Mohammad Hosseini/Documents/UT/Computer Architecture Lab/MIPS/WB_Stage.v|
 !s101 -O0
 R10
-Z209 n@w@b_@stage
+Z239 n@w@b_@stage

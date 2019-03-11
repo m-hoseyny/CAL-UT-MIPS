@@ -1,9 +1,10 @@
+Warning (10268): Verilog HDL information at MEM.v(17): always construct contains both blocking and non-blocking assignments
 Warning (10273): Verilog HDL warning at ALU.v(39): extended using "x" or "z"
-Warning (10273): Verilog HDL warning at ROM.v(20): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at ROM.v(128): extended using "x" or "z"
 Warning (10268): Verilog HDL information at Register_File.v(27): always construct contains both blocking and non-blocking assignments
 Info (10281): Verilog HDL Declaration information at ID_Stage.v(14): object "Reg2" differs only in case from object "reg2" in the same scope
 Warning (10273): Verilog HDL warning at CU.v(15): extended using "x" or "z"
-Warning (10273): Verilog HDL warning at CU.v(75): extended using "x" or "z"
 Warning (10273): Verilog HDL warning at CU.v(79): extended using "x" or "z"
 Warning (10273): Verilog HDL warning at CU.v(83): extended using "x" or "z"
-Warning (10273): Verilog HDL warning at CU.v(86): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at CU.v(87): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at CU.v(90): extended using "x" or "z"

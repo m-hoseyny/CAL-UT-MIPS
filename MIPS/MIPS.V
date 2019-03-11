@@ -336,6 +336,7 @@ inout	[35:0]	GPIO_1;					//	GPIO Connection 1
 	wire WB_EN_WB_ID;
 	wire [31:0]Write_Value_WB_ID;
 	wire [4:0]Dest_WB_ID;
+	wire [31:0]MEM_read_value_MEM_MEMreg;
 
 	IF_Stage inst_IF_Stage 
 		(	
@@ -430,7 +431,7 @@ inout	[35:0]	GPIO_1;					//	GPIO Connection 1
 			.MEM_R_EN_in (MEM_R_EN_IDreg_EXEreg),
 			.MEM_W_EN_in (MEM_W_EN_IDreg_EXEreg),
 			.ALU_Res_in  (ALU_Res_EXE_EXEreg),
-			.ST_Val_in   (0),
+			.ST_Val_in   (Reg2_IDreg_EXE),
 			.Dest_in     (Dest_IDreg_EXEreg),
 			.WB_EN       (WB_EN_EXEreg_MEMreg),
 			.MEM_R_EN    (MEM_R_EN_EXEreg_MEM),
@@ -438,6 +439,18 @@ inout	[35:0]	GPIO_1;					//	GPIO Connection 1
 			.ALU_Res     (ALU_Res_EXEreg_MEM),
 			.ST_Val      (ST_Val_EXEreg_MEM),
 			.Dest        (Dest_EXEreg_MEMreg)
+		);
+
+
+	MEM_Stage inst_MEM_Stage
+		(
+			.clk            (clk),
+			.rst            (rst),
+			.MEM_R_EN_in    (MEM_R_EN_EXEreg_MEM),
+			.MEM_W_EN_in    (MEM_W_EN_EXEreg_MEM),
+			.ALU_Res_in     (ALU_Res_EXEreg_MEM),
+			.ST_val         (ST_Val_EXEreg_MEM),
+			.MEM_read_value (MEM_read_value_MEM_MEMreg)
 		);
 
 
@@ -453,7 +466,7 @@ inout	[35:0]	GPIO_1;					//	GPIO Connection 1
 			.WB_EN_in          (WB_EN_EXEreg_MEMreg),
 			.MEM_R_EN_in       (MEM_R_EN_MEM_MEMreg),
 			.ALU_Res_in        (ALU_Res_MEM_MEMreg),
-			.Mem_read_value_in (0),
+			.Mem_read_value_in (MEM_read_value_MEM_MEMreg),
 			.Dest_in           (Dest_EXEreg_MEMreg),
 			.WB_EN             (WB_EN_MEMreg_WB),
 			.MEM_R_EN          (MEM_R_EN_MEMreg_WB),

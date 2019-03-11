@@ -8,7 +8,6 @@ entity ID_Stage is
         WB_Write_Enable : in     vl_logic;
         WB_Dest         : in     vl_logic_vector(4 downto 0);
         WB_Data         : in     vl_logic_vector(31 downto 0);
-        IF_flush        : out    vl_logic;
         Dest            : out    vl_logic_vector(4 downto 0);
         Reg2            : out    vl_logic_vector(31 downto 0);
         Val2            : out    vl_logic_vector(31 downto 0);

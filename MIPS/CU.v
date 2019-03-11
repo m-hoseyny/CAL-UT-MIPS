@@ -67,9 +67,13 @@ always @(*) begin : proc_
 		36 : begin : LD
 			EXE_CMD = 4'b0;
 			WB_EN = 1;
+			MEM_R_EN = 1'b1;
+			IS_IMM = 1'b1;
 		end
 		37 : begin : ST
 			EXE_CMD = 4'b0;
+			MEM_W_EN = 1'b1;
+			IS_IMM = 1'b1;
 		end
 		40 : begin : BEZ
 			EXE_CMD = 4'bx;
